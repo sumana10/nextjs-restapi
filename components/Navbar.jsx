@@ -9,7 +9,7 @@ function Navbar() {
       <Link href="/">
         <a className='navbar-brand'>SuperWoman</a>  
       </Link>
-      <Link href="/new">
+      <Link href="/add">
         <MDBBtn>Pheonix</MDBBtn> 
       </Link>
      
